@@ -6,8 +6,7 @@ const productos = [
   { nombre: "Helado de Fresa", precio: 15.0 },
   { nombre: "Batido de Fresa", precio: 15.0 },
   { nombre: "Refresco de Limón", precio: 15.0 },
-  { nombre: "Gaseosa", precio: 15.0 },
-  { nombre: "Pack San Valentín", precio: 400.0 }
+  { nombre: "Gaseosa", precio: 15.0 }
 ];
 
 let carrito = [];
